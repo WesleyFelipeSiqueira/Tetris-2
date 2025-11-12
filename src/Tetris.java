@@ -25,7 +25,7 @@ public class Tetris extends JFrame {
     // ---------------------------------------------
 
     public Tetris() {
-        setTitle("Criado por: Felipe");
+        setTitle("Criado por: Wesley Felipe Siqueira");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false);
 

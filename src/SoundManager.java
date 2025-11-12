@@ -12,11 +12,17 @@ public class SoundManager {
     private boolean isMusicPlaying = false; // <-- ADICIONADO
 
     private final String[] musicTracks = {
-            "A little Piece of Heavens.wav",
-            "Pastel Ghost - Dark Beach.wav",
-            "Tame Impala - Let It Happen.wav",
-            "Scarlet House - Slowing Down.wav",
-            "Little Dark Age - MGMT.wav"
+        "01 -Highway To Hell.wav",
+        "02 -Girls Got Rhythm.wav",
+        "03 -Walk All Over You.wav",
+        "04 -Touch Too Much.wav",
+        "05 -Beating Around The Bush.wav",
+        "06 -Shot Down In Flames.wav",
+        "07 -Get It Hot.wav",
+        "08 -If You Want Blood (You Got It).wav",
+        "09 -Love Hungry Man.wav",
+        "10 -Night Prowler.wav"
+
     };
 
     // --- MÚSICA DE FUNDO ---
