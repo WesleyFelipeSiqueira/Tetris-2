@@ -3,9 +3,6 @@ Este é um clone completo do clássico jogo Tetris, construído do zero em Java 
 
 O jogo inclui modos 1P e 2P, rankings globais persistentes, um sistema de salvar/carregar jogo, e um alto nível de personalização de áudio e visual.
 
-✨ Demo
-https://imgur.com/a/82jMPBf
-
 🚀 Funcionalidades Principais
 Esta aplicação não é apenas um jogo, mas um sistema robusto com os seguintes recursos:
 
